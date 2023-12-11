@@ -431,7 +431,7 @@ footer .copyright-web .web a {
   border: 0;
 }
 .profile-content .profile-info .profile-name {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -446,6 +446,9 @@ footer .copyright-web .web a {
   list-style-type: none;
   border-bottom: 1px solid #ececec;
   padding: 5px 0;
+}
+.profile-content .profile-info .balans ul li .profile-info-weight {
+  font-weight: 500;
 }
 .profile-content .profile-info .balans ul svg {
   width: 20px;

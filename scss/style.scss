@@ -447,7 +447,7 @@ footer{
             }
         }
         .profile-name {
-            font-size: 20px;
+            font-size: 24px;
             font-weight: 600;
             svg {
                 width: 20px;
@@ -462,6 +462,9 @@ footer{
                     list-style-type: none;
                     border-bottom: 1px solid #ececec;
                     padding: 5px 0;
+                    .profile-info-weight {
+                        font-weight: 500;
+                    }
                 }
                 svg{
                     width: 20px;
