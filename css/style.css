@@ -402,6 +402,10 @@ footer .copyright-web .web a {
   background-color: #fff;
   padding: 10px;
   border-radius: 5px;
+  background-image: url("../img/3478538.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: 99%;
 }
 .profile-content .profile-slide h1 {
   font-size: 24px;
@@ -454,4 +458,53 @@ footer .copyright-web .web a {
 .profile-content .profile-info .balans ul svg {
   width: 20px;
   padding-bottom: 2px;
+}
+
+/**********************  New event  *****************************/
+.new-event-content {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+.new-event-content .event {
+  background-color: #fff;
+  width: 100%;
+  margin: 20px 0;
+  padding: 10px;
+  background-image: url("../img/3478538.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: 99%;
+}
+.new-event-content .event h1 {
+  font-size: 24px;
+  text-align: center;
+}
+.new-event-content .event-input {
+  background-color: #fff;
+  width: 100%;
+  margin: 20px 0;
+  padding: 20px;
+}
+.new-event-content .event-input input {
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 10px 0;
+  width: 100%;
+}
+.new-event-content .event-input textarea {
+  margin: 10px 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 5px 10px;
+  width: 100%;
+}
+.new-event-content .event-input .btn-primary {
+  background-color: #CF0000 !important;
+  border-color: #CF0000;
+  text-align: center;
+}
+.new-event-content .event-input .btn-primary:hover {
+  background-color: #e60b0b;
+  border-color: #e90303;
 }
