@@ -427,12 +427,13 @@ footer .copyright-web .web a {
 .profile-content .profile-info .profile-edit button {
   background-color: #CF0000;
   width: 100%;
-  height: 40px;
   border: 0;
+  font-size: 14px;
 }
 .profile-content .profile-info .profile-name {
   font-size: 24px;
   font-weight: 600;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 .profile-content .profile-info .profile-name svg {
